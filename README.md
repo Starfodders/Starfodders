@@ -2,9 +2,7 @@
 
 - I'm a registered nurse turned software developer with aspirations to create contemporary healthcare solutions and build fun and interesting personal projects! 
 
-- I'm currently building Hearth, deployed on Netlify and interacts with my Amazon RDS (MySQL) through serverless functions.
-
-- I'm continuing to dive into React documentation to see how my preliminary knowledge can be upgraded with more modern React features. This also teaches me how to write and maintain my code.
+- Hearth is done, deployed on Netlify and interacts with my Amazon RDS (MySQL) through serverless functions. Check it out at https://hearthdbt.netlify.app/
 
 - My next step(s) are to build out a portfolio website, learn Typescript and NextJS, React Native.
 
