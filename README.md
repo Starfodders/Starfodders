@@ -4,5 +4,7 @@
 
 - Hearth is done, deployed on Netlify and interacts with my Amazon RDS (MySQL) through serverless functions. Check it out at https://hearthdbt.netlify.app/
 
-- My next step(s) are to build out a portfolio website, learn Typescript and NextJS, React Native.
+- I've recently built a portfolio website at https://michaeldeng.netlify.app/ using NextJS, Typescript, Tailwind, and ThreeJS. Check it out!
+
+- Currently working on learning React Native and Prisma, and brushing up further on Typescript.
 
