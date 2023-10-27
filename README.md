@@ -6,5 +6,5 @@
 
 - I've recently built a portfolio website at https://michaeldeng.netlify.app/ using NextJS, Typescript, Tailwind, and ThreeJS. Check it out!
 
-- Currently working on learning React Native and Prisma, and brushing up further on Typescript.
+- Currently working on a project using Typescript, Redux, Django, and Redis. 
 
