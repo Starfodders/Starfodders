@@ -6,5 +6,5 @@
 
 - I've recently built a portfolio website at https://michaeldeng.netlify.app/ using NextJS, Typescript, Tailwind, and ThreeJS. Check it out!
 
-- Currently working on a project using Typescript, Redux, Django, and Redis. 
+- Currently working on a project using Docker, Python (Flask), Redis, and PostgreSQL!
 
